@@ -32,3 +32,4 @@ D:\workspace-it\code\workspace\path to fullstack\nam .net\asp.net\WebApplication
 D:\workspace-it\code\workspace\path to fullstack\nam .net\asp.net\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication1.pdb
 D:\workspace-it\code\workspace\path to fullstack\nam .net\asp.net\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication1.genruntimeconfig.cache
 D:\workspace-it\code\workspace\path to fullstack\nam .net\asp.net\WebApplication1\WebApplication1\obj\Debug\net8.0\ref\WebApplication1.dll
+D:\workspace-it\code\workspace\path to fullstack\nam .net\asp.net\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication1.sourcelink.json

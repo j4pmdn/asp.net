@@ -6,10 +6,12 @@ namespace WebApplication1.Controllers
 {
     public class HomeController : Controller
     {
+        private readonly IRepository repository;
         private readonly ILogger<HomeController> _logger;
 
-        public HomeController(ILogger<HomeController> logger)
+        public HomeController(IRepository repository, ILogger<HomeController> logger)
         {
+            this.repository = repository;
             _logger = logger;
         }
 
@@ -21,6 +23,11 @@ namespace WebApplication1.Controllers
         public IActionResult Privacy()
         {
             return View();
+        }
+
+        public IActionResult NewActionMethod(string name, int n)
+        {
+            return Content("Hi from NewActionMethod!" + repository.GetById(name));
         }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]

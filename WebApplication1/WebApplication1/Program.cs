@@ -1,3 +1,5 @@
+using Microsoft.Extensions.DependencyInjection;
+
 namespace WebApplication1
 {
     public class Program
@@ -8,6 +10,8 @@ namespace WebApplication1
 
             // Add services to the container.
             builder.Services.AddControllersWithViews();
+
+            builder.Services.AddSingleton<IRepository>(services => new MyRepository(services.GetRequiredService<ILogger<MyRepository>>()));
 
             var app = builder.Build();
 

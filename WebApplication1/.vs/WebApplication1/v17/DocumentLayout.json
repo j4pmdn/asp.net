@@ -7,16 +7,28 @@
       "RelativeMoniker": "D:0:0:{0E00D51A-C182-4A8A-8405-53DA999F8BD0}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0E00D51A-C182-4A8A-8405-53DA999F8BD0}|WebApplication1\\WebApplication1.csproj|d:\\workspace-it\\code\\workspace\\path to fullstack\\nam .net\\asp.net\\webapplication1\\webapplication1\\models\\hellomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E00D51A-C182-4A8A-8405-53DA999F8BD0}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\hellomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0E00D51A-C182-4A8A-8405-53DA999F8BD0}|WebApplication1\\WebApplication1.csproj|d:\\workspace-it\\code\\workspace\\path to fullstack\\nam .net\\asp.net\\webapplication1\\webapplication1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0E00D51A-C182-4A8A-8405-53DA999F8BD0}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{0E00D51A-C182-4A8A-8405-53DA999F8BD0}|WebApplication1\\WebApplication1.csproj|d:\\workspace-it\\code\\workspace\\path to fullstack\\nam .net\\asp.net\\webapplication1\\webapplication1\\controllers\\mathcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E00D51A-C182-4A8A-8405-53DA999F8BD0}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\mathcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0E00D51A-C182-4A8A-8405-53DA999F8BD0}|WebApplication1\\WebApplication1.csproj|d:\\workspace-it\\code\\workspace\\path to fullstack\\nam .net\\asp.net\\webapplication1\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0E00D51A-C182-4A8A-8405-53DA999F8BD0}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E00D51A-C182-4A8A-8405-53DA999F8BD0}|WebApplication1\\WebApplication1.csproj|d:\\workspace-it\\code\\workspace\\path to fullstack\\nam .net\\asp.net\\webapplication1\\webapplication1\\myrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E00D51A-C182-4A8A-8405-53DA999F8BD0}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\myrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E00D51A-C182-4A8A-8405-53DA999F8BD0}|WebApplication1\\WebApplication1.csproj|d:\\workspace-it\\code\\workspace\\path to fullstack\\nam .net\\asp.net\\webapplication1\\webapplication1\\models\\hellomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E00D51A-C182-4A8A-8405-53DA999F8BD0}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\hellomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E00D51A-C182-4A8A-8405-53DA999F8BD0}|WebApplication1\\WebApplication1.csproj|d:\\workspace-it\\code\\workspace\\path to fullstack\\nam .net\\asp.net\\webapplication1\\webapplication1\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E00D51A-C182-4A8A-8405-53DA999F8BD0}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E00D51A-C182-4A8A-8405-53DA999F8BD0}|WebApplication1\\WebApplication1.csproj|d:\\workspace-it\\code\\workspace\\path to fullstack\\nam .net\\asp.net\\webapplication1\\webapplication1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0E00D51A-C182-4A8A-8405-53DA999F8BD0}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,11 +38,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "MathController.cs",
+              "DocumentMoniker": "D:\\workspace-it\\code\\workspace\\path to fullstack\\nam .net\\asp.net\\WebApplication1\\WebApplication1\\Controllers\\MathController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\MathController.cs",
+              "ToolTip": "D:\\workspace-it\\code\\workspace\\path to fullstack\\nam .net\\asp.net\\WebApplication1\\WebApplication1\\Controllers\\MathController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\MathController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T02:15:59.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MyRepository.cs",
+              "DocumentMoniker": "D:\\workspace-it\\code\\workspace\\path to fullstack\\nam .net\\asp.net\\WebApplication1\\WebApplication1\\MyRepository.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\MyRepository.cs",
+              "ToolTip": "D:\\workspace-it\\code\\workspace\\path to fullstack\\nam .net\\asp.net\\WebApplication1\\WebApplication1\\MyRepository.cs",
+              "RelativeToolTip": "WebApplication1\\MyRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T02:00:00.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "D:\\workspace-it\\code\\workspace\\path to fullstack\\nam .net\\asp.net\\WebApplication1\\WebApplication1\\IRepository.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\IRepository.cs",
+              "ToolTip": "D:\\workspace-it\\code\\workspace\\path to fullstack\\nam .net\\asp.net\\WebApplication1\\WebApplication1\\IRepository.cs",
+              "RelativeToolTip": "WebApplication1\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T01:59:12.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "HelloModel.cs",
               "DocumentMoniker": "D:\\workspace-it\\code\\workspace\\path to fullstack\\nam .net\\asp.net\\WebApplication1\\WebApplication1\\Models\\HelloModel.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Models\\HelloModel.cs",
@@ -43,7 +94,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\workspace-it\\code\\workspace\\path to fullstack\\nam .net\\asp.net\\WebApplication1\\WebApplication1\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "WebApplication1\\Views\\Home\\Index.cshtml",
@@ -51,8 +102,7 @@
               "RelativeToolTip": "WebApplication1\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-18T01:41:54.354Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-18T01:41:54.354Z"
             },
             {
               "$type": "Document",
@@ -62,20 +112,20 @@
               "RelativeDocumentMoniker": "WebApplication1\\Controllers\\HomeController.cs",
               "ToolTip": "D:\\workspace-it\\code\\workspace\\path to fullstack\\nam .net\\asp.net\\WebApplication1\\WebApplication1\\Controllers\\HomeController.cs",
               "RelativeToolTip": "WebApplication1\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBEAAAA3AAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-18T01:40:10.142Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\workspace-it\\code\\workspace\\path to fullstack\\nam .net\\asp.net\\WebApplication1\\WebApplication1\\Program.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
               "ToolTip": "D:\\workspace-it\\code\\workspace\\path to fullstack\\nam .net\\asp.net\\WebApplication1\\WebApplication1\\Program.cs",
               "RelativeToolTip": "WebApplication1\\Program.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAzwBYAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-17T17:05:47.935Z",
               "EditorCaption": ""

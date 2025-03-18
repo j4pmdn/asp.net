@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\workspace-it\\code\\workspace\\path to fullstack\\nam .net\\asp.net\\WebApplication1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0E00D51A-C182-4A8A-8405-53DA999F8BD0}|WebApplication1\\WebApplication1.csproj|d:\\workspace-it\\code\\workspace\\path to fullstack\\nam .net\\asp.net\\webapplication1\\webapplication1\\controllers\\mathcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E00D51A-C182-4A8A-8405-53DA999F8BD0}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\mathcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0E00D51A-C182-4A8A-8405-53DA999F8BD0}|WebApplication1\\WebApplication1.csproj|d:\\workspace-it\\code\\workspace\\path to fullstack\\nam .net\\asp.net\\webapplication1\\webapplication1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0E00D51A-C182-4A8A-8405-53DA999F8BD0}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E00D51A-C182-4A8A-8405-53DA999F8BD0}|WebApplication1\\WebApplication1.csproj|d:\\workspace-it\\code\\workspace\\path to fullstack\\nam .net\\asp.net\\webapplication1\\webapplication1\\controllers\\mathcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E00D51A-C182-4A8A-8405-53DA999F8BD0}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\mathcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0E00D51A-C182-4A8A-8405-53DA999F8BD0}|WebApplication1\\WebApplication1.csproj|d:\\workspace-it\\code\\workspace\\path to fullstack\\nam .net\\asp.net\\webapplication1\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,17 +38,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "MathController.cs",
               "DocumentMoniker": "D:\\workspace-it\\code\\workspace\\path to fullstack\\nam .net\\asp.net\\WebApplication1\\WebApplication1\\Controllers\\MathController.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Controllers\\MathController.cs",
               "ToolTip": "D:\\workspace-it\\code\\workspace\\path to fullstack\\nam .net\\asp.net\\WebApplication1\\WebApplication1\\Controllers\\MathController.cs",
               "RelativeToolTip": "WebApplication1\\Controllers\\MathController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-18T02:15:59.318Z",
               "EditorCaption": ""
@@ -106,13 +106,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "HomeController.cs",
               "DocumentMoniker": "D:\\workspace-it\\code\\workspace\\path to fullstack\\nam .net\\asp.net\\WebApplication1\\WebApplication1\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Controllers\\HomeController.cs",
               "ToolTip": "D:\\workspace-it\\code\\workspace\\path to fullstack\\nam .net\\asp.net\\WebApplication1\\WebApplication1\\Controllers\\HomeController.cs",
               "RelativeToolTip": "WebApplication1\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBsAAAA/AAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-18T01:40:10.142Z",
               "EditorCaption": ""
